@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+# Uncomment the two below
+# datasets
+# save
+.vscode
